@@ -1,0 +1,21 @@
+{
+    "rows": 11,
+    "columns": 11,
+    "clues": {
+      "across": {
+        "2": { "clue": "Wooly jumper in the field", "startPosition": [3, 0], "length": 5 },
+        "3": { "clue": "Bill-equipped diver", "startPosition": [3, 6], "length": 4 },
+        "5": { "clue": "Bouncing Aussie with a pocket", "startPosition": [5, 3], "length": 8 },
+        "7": { "clue": "Purring prowler", "startPosition": [7, 2], "length": 3 },
+        "8": { "clue": "Nocturnal flyer", "startPosition": [7,8], "length": 3}
+
+       
+      },
+      "down": {
+        "1": { "clue": "Jumbo with a trunk", "startPosition": [0, 4], "length": 8 },
+        "4": { "clue": "Bearded mountain climber", "startPosition": [4, 10], "length": 4 },
+        "6": { "clue": "Hopping mad March hare", "startPosition": [5, 8], "length": 6 }
+      }
+    }
+  }
+  
